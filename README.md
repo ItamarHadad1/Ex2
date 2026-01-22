@@ -2,6 +2,12 @@
 
 A lightweight Next.js web application that aggregates weekly AI/ML trends from GitHub and Hugging Face. The system displays popular projects from GitHub (filtered by AI/ML topics) and trending Spaces from Hugging Face, summarizes them using an LLM API, and presents them in a clean Apple-inspired interface.
 
+## 🚀 Live Deployment
+
+This project is deployed on Vercel and accessible here:
+
+👉 https://your-project-name.vercel.app
+
 ## 📋 Project Description
 
 This is an MVP (Minimum Viable Product) version of the AI News Aggregator. It:
