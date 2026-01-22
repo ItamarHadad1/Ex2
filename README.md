@@ -58,6 +58,18 @@ This is an MVP (Minimum Viable Product) version of the AI News Aggregator. It:
 
 > 📖 **Need help setting up API keys?** See the [API Keys Guide](API_KEYS_GUIDE.md) for step-by-step instructions.
 
+## 📸 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e5ddd6d-3faf-4276-8da3-a557351d6110" width="400" />
+  <img src="https://github.com/user-attachments/assets/ed13d882-7aa1-4202-996c-e847f825d3c3" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e058ed26-aad0-447a-bbfc-fff2231c7bb5" width="400" />
+  <img src="https://github.com/user-attachments/assets/c7de355d-e9a5-4a2e-b7e4-ec55014e2d1d" width="400" />
+</p>
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
