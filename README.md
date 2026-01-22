@@ -6,7 +6,7 @@ A lightweight Next.js web application that aggregates weekly AI/ML trends from G
 
 This project is deployed on Vercel and accessible here:
 
-👉 https://your-project-name.vercel.app
+👉 [https://your-project-name.vercel.app](https://ex2-web-platforms-bpe7.vercel.app/)
 
 ## 📋 Project Description
 
