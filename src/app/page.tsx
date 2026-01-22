@@ -89,7 +89,7 @@ export default function Home() {
 
         {!loading && projects.length === 0 && !error && (
           <div className={styles.empty}>
-            <p>Click "Fetch Projects" to load AI/ML trends from GitHub and Hugging Face</p>
+            <p>Click &quot;Fetch Projects&quot; to load AI/ML trends from GitHub and Hugging Face</p>
           </div>
         )}
       </div>

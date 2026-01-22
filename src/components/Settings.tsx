@@ -87,7 +87,7 @@ export default function Settings({ onClose }: SettingsProps) {
               placeholder="Enter your API key (stored locally)"
             />
             <p className={styles.hint}>
-              Your API key is stored in your browser's localStorage and never sent to our servers.
+              Your API key is stored in your browser&apos;s localStorage and never sent to our servers.
               Get free API keys from:
               <br />
               <a href="https://console.groq.com/keys" target="_blank" rel="noopener noreferrer">
