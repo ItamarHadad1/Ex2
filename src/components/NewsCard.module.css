@@ -1,0 +1,100 @@
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  padding: 24px;
+  transition: box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1d1d1f;
+  flex: 1;
+}
+
+.title a {
+  color: #007aff;
+  text-decoration: none;
+}
+
+.title a:hover {
+  text-decoration: underline;
+}
+
+.stars {
+  font-size: 14px;
+  color: #86868b;
+  white-space: nowrap;
+}
+
+.description {
+  font-size: 14px;
+  color: #1d1d1f;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.summary {
+  padding: 12px;
+  background-color: #f5f5f7;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #1d1d1f;
+  line-height: 1.5;
+}
+
+.summary strong {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tag {
+  font-size: 12px;
+  padding: 4px 12px;
+  background-color: #f5f5f7;
+  border-radius: 12px;
+  color: #1d1d1f;
+}
+
+.summarizeBtn {
+  padding: 10px 20px;
+  background-color: #007aff;
+  color: #ffffff;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  align-self: flex-start;
+}
+
+.summarizeBtn:hover:not(:disabled) {
+  background-color: #0051d5;
+}
+
+.summarizeBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

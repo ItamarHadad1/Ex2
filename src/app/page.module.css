@@ -1,0 +1,43 @@
+.main {
+  min-height: 100vh;
+  padding: 40px 0;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #1d1d1f;
+}
+
+.subtitle {
+  font-size: 20px;
+  color: #86868b;
+  margin-bottom: 32px;
+}
+
+.actions {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+  margin-top: 40px;
+}
+
+.empty {
+  text-align: center;
+  padding: 80px 20px;
+  color: #86868b;
+  font-size: 18px;
+}
